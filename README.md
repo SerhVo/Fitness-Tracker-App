@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/e19ff80e-e88a-4974-8493-cdc47ffc0ff0)
 
-![image](https://github.com/user-attachments/assets/b31348c8-1b34-4a29-b966-5c1b8ed1df78)
 
 
 # Fitness-Tracker-App
