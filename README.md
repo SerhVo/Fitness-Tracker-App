@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/b31348c8-1b34-4a29-b966-5c1b8ed1df78)
+
+
 # Fitness-Tracker-App
 This is a simple fitness tracker application that allows users to log and track their running and cycling workouts on a map using the Leaflet library.
 
